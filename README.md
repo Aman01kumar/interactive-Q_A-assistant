@@ -1,10 +1,10 @@
-<<<<<<< HEAD
+
 # Interactive Q&A Assistant
 
 An interactive Question & Answer chatbot built using **Streamlit** and a **free-tier generative AI API**.  
 The application allows users to ask questions and receive clear, contextual responses in real time.
 
----
+
 
 ## Features
 
@@ -13,8 +13,4 @@ The application allows users to ask questions and receive clear, contextual resp
 - Works on free-tier API (no billing required)  
 - Easy to set up and run locally  
 
----
-=======
-# interactive-Q_A-assistant
-A Streamlit-based interactive Q&amp;A chatbot
->>>>>>> 1732dba5361eb5ed926881b6649423584742df4b
+
